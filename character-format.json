@@ -16,20 +16,20 @@
                 "skill-name": {"base-stat": "stat-name", "bonus": 0}
             }
         },
-        "journal": {
-            "appearance": "[description]",
-            "image-url": "[url]",
-            "profile-url": "[url]"
-        },
         "resources": {
             "rescource-name": {
                 "max-amount": "int amount",
                 "current-amount": "int amount"
             }
         },
-        "actions": {},
         "features": {},
-        "inventory": {}
+        "inventory": {},
+
+        "journal": {
+            "appearance": "[description]",
+            "image-url": "[url]",
+            "profile-url": "[url]"
+        }
     },
     "variables": {}
 }

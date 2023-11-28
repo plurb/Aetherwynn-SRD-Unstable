@@ -1,0 +1,10 @@
+{
+    "action-name": "Action Name",
+    "action-description": "description",
+    "DC": 0,
+    "attack-bonus": 0,
+    "resources-consumed": {
+        "resource1-name": 0,
+        "rescource2-name": 0
+    }
+}
