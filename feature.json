@@ -1,0 +1,6 @@
+{
+    "feature-name": "Feature Name",
+    "feature-description": "[description]",
+    "resources-consumed": "resource-name",
+    "actions": [{"action-name": {}}]
+}
