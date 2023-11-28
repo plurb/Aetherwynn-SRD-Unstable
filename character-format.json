@@ -6,17 +6,15 @@
         "stats": {
             "base-stats": {}
         },
-        "resources": {},
-        "actions": {},
-        "spells": {},
-        "exploits": {},
-        "inventory": {},
-        "features": {},
         "journal": {
             "appearance": "[description]",
             "image-url": "[url]",
             "profile-url": "[url]"
-        }
+        },
+        "resources": {},
+        "actions": {},
+        "inventory": {},
+        "features": {}
     },
     "variables": {}
 }
