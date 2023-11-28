@@ -24,7 +24,6 @@
         },
         "features": {},
         "inventory": {},
-
         "journal": {
             "appearance": "[description]",
             "image-url": "[url]",
