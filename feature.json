@@ -1,6 +1,6 @@
 {
     "feature-name": "Feature Name",
     "feature-description": "[description]",
-    "resources-consumed": "resource-name",
-    "actions": [{"action-name": {}}]
+    "resouce-generated": "resource-name",
+    "actions": [{"action-name": {"resources-consumed": "resource-name"}}]
 }
