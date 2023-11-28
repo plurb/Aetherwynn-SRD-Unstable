@@ -11,10 +11,15 @@
             "image-url": "[url]",
             "profile-url": "[url]"
         },
-        "resources": {},
+        "resources": {
+            "rescource-name": {
+                "max-amount": "int amount",
+                "current-amount": "int amount"
+            }
+        },
         "actions": {},
-        "inventory": {},
-        "features": {}
+        "features": {},
+        "inventory": {}
     },
     "variables": {}
 }
