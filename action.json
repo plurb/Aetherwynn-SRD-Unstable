@@ -6,5 +6,8 @@
     "resources-consumed": {
         "resource1-name": 0,
         "rescource2-name": 0
+    },
+    "effects": {
+        "command-name": "command"
     }
 }
