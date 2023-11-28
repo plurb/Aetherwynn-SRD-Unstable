@@ -13,7 +13,7 @@
                 "stat-6": 0
             },
             "skills": {
-                "skill-name": 0
+                "skill-name": {"base-stat": "stat-name", "bonus": 0}
             }
         },
         "journal": {
