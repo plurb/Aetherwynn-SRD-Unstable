@@ -3,16 +3,20 @@
         "version": "0.0.0"
     },
     "character": {
-        "stats":{
-            "base-stats":{}
+        "stats": {
+            "base-stats": {}
         },
-        "resources":{},
-        "actions":{},
-        "spells":{},
-        "exploits":{},
-        "inventory":{},
-        "features":{},
-        "journal":{}
+        "resources": {},
+        "actions": {},
+        "spells": {},
+        "exploits": {},
+        "inventory": {},
+        "features": {},
+        "journal": {
+            "appearance": "[description]",
+            "image-url": "[url]",
+            "profile-url": "[url]"
+        }
     },
     "variables": {}
 }
