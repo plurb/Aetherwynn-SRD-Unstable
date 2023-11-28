@@ -1,0 +1,18 @@
+{
+    "meta": {
+        "version": 0
+    },
+    "character": {
+        "stats":{
+            "base-stats":{}
+        },
+        "resources":{},
+        "actions":{},
+        "spells":{},
+        "exploits":{},
+        "inventory":{},
+        "features":{},
+        "journal":{}
+    },
+    "variables": {}
+}
